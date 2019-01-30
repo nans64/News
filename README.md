@@ -1,25 +1,22 @@
-# README
+# THP - Semaine 4 - MOOC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Execute $ bundle install then you are ready to go
 
-Things you may want to cover:
+## Version
 
-* Ruby version
+* Ruby version 2.5.1
+* Rails version 5.2.1
 
-* System dependencies
+# Table created
 
-* Configuration
+* User
+* Link
+* Comment
+* CommentComment
 
-* Database creation
+## Informations
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# News
+* Users have names
+* Links can be posted by Users, and have an url
+* Comments can be made by Users, and have a content
+* Comments can be made on Comments by Users, and have a content
