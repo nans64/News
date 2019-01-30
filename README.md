@@ -1,4 +1,4 @@
-# THP - Semaine 4 - MOOC
+# THP - Semaine 4 - NEWS
 
 Execute $ bundle install then you are ready to go
 
